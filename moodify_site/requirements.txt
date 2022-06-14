@@ -3,7 +3,7 @@ chardet==3.0.4
 Django==2.2.28
 django-markdown-deux==1.0.5
 idna==2.8
-markdown2==2.3.7
+markdown2==2.4.0
 music-recommender==1.0.5
 oauthlib==3.0.1
 PySocks==1.6.8
